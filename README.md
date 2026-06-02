@@ -1,5 +1,3 @@
-# CustomerChurnAnalysis - Exploratory Data Analysis
-Performed EDA on a Customer Churn dataset, using Pandas, NumPy, Matplotlib, and Seaborn, I conducted statistical analysis and created visualizations to isolate the exact contract, billing, and service factors driving client flight, providing data-backed retention strategies.
 # Telecom Customer Churn - Exploratory Data Analysis (EDA)
 ## Project Overview
 This repository contains a comprehensive **Exploratory Data Analysis (EDA)** project focused on identifying the key drivers behind customer attrition (churn) for a telecommunications company[cite: 1]. The primary goal of this analysis is to uncover meaningful, data-driven patterns that separate retained customers from those who leave, providing actionable recommendations to maximize account longevity and reduce portfolio losses[cite: 1].
