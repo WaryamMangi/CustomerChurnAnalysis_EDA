@@ -65,4 +65,4 @@ Based on the trends uncovered in this project, the following operational adjustm
 ```text
 ├── CustomerChurn_EDA.ipynb   # Main Jupyter Notebook containing the data cleaning & EDA[cite: 1]
 ├── CustomerChurn.csv         # Raw dataset containing the customer portfolio data[cite: 1]
-└── README.md                 # Project documentation and summary report
+└── CustomerChurnAnalysis.pdf # Project documentation and summary report
